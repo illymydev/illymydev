@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>&nbsp 
 </p>
 
 
