@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white"/></a>&nbsp
 </p>
 
 
